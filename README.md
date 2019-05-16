@@ -6,6 +6,8 @@ The following repo contains the necessary files needed to build and run and Imag
 - Video_prj
 - Video_Processing.ipynb
 - Video_processing.slx
+- VideoFilter.bit
+- VideoFilter.tlc
 ## Using the Files
 The files should be used as follows :
 - Generate IP Block from Video_Processing.slx using simulink
