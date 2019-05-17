@@ -3,7 +3,6 @@
 The following repo contains the necessary files needed to build and run and Image and video processing system using the PYNQ-Z2 board the design can take an input from the hdmi port and preform various filter processing on the stream such as , greyscaling, canny-edge detection, Median filtering etc.. 
 ## File List 
 - Video_ip.zip
-- Video_prj.zip
 - Final_Notebook.zip
 - Video_Filter_Prj_Sysgen.zip
 - PYNQ Assignment.ipynb (Found within Final_Notebook.zip)
