@@ -2,12 +2,14 @@
 # Image-Video-Processing-Using-Pynq-Z2
 The following repo contains the necessary files needed to build and run and Image and video processing system using the PYNQ-Z2 board the design can take an input from the hdmi port and preform various filter processing on the stream such as , greyscaling, canny-edge detection, Median filtering etc.. 
 ## File List 
-- Video_ip
-- Video_prj
-- Video_Processing.ipynb
-- Video_processing.slx
-- VideoFilter.bit
-- VideoFilter.tlc
+- Video_ip.zip
+- Video_prj.zip
+- Final_Notebook.zip
+- Video_Filter_Prj_Sysgen.zip
+- PYNQ Assignment.ipynb (Found within Final_Notebook.zip)
+- Video_Filter.slx (found within Video_Filter_Prj_Sysgen.zip)
+- VideoFilter.bit (Found within Final_Notebook.zip)
+- VideoFilter.tlc (Found within Final_Notebook.zip)
 ## Using the Files
 The files should be used as follows :
 - Generate IP Block from Video_Processing.slx using simulink
