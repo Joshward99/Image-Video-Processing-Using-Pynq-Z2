@@ -6,7 +6,7 @@ The following repo contains the necessary files needed to build and run and Imag
 - Final_Notebook.zip
 - Video_Filter_Prj_Sysgen.zip
 - PYNQ Assignment.ipynb (Found within Final_Notebook.zip)
-- Video_Filter.slx (found within Video_Filter_Prj_Sysgen.zip)
+- Video_Filter.slx (Found within Video_Filter_Prj_Sysgen.zip)
 - VideoFilter.bit (Found within Final_Notebook.zip)
 - VideoFilter.tlc (Found within Final_Notebook.zip)
 ## Using the Files
